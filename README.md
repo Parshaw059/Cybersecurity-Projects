@@ -56,7 +56,7 @@ python password_checker_v2.py
 
 
 
-
+   
 # TCP Port Scanner
 
 A Python-based TCP Port Scanner that scans a target IP address and identifies open and closed ports within a specified range.
@@ -118,5 +118,5 @@ Port 25 is closed
 
 ## Author
 
-Parshaw Shah
+Parshaw Shah ||
 Cybersecurity Student || Python Developer (Basics)
