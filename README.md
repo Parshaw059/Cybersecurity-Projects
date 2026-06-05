@@ -53,6 +53,10 @@ python password_checker_v2.py
 - Common password detection
 - Password suggestions
 
+
+
+
+
 # TCP Port Scanner
 
 A Python-based TCP Port Scanner that scans a target IP address and identifies open and closed ports within a specified range.
